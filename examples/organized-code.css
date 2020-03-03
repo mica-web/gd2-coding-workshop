@@ -1,0 +1,68 @@
+/*  ================== COLOR PALETTE ==================*/
+
+:root {
+  --color-lightgreen: #d9ef81;
+  --color-darkgreen: #b5d43c;
+  --color-offblack: #312d2f;
+  --color-offwhite: #f7f7f7;
+}
+
+
+/*  ================== BASE STYLES ================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-offblack);
+  color: var(--color-offwhite);
+  font-family: 'Maven Pro', sans-serif;
+  line-height: 1.5;
+  margin: 0;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+a {
+  color: var(--color-darkgreen);
+  text-decoration: none;
+  padding: 2px;
+  border-bottom: 12px solid var(--color-offwhite);
+}
+
+a:hover,
+a:focus {
+  color: var(--color-lightgreen);
+}
+
+
+/*  ================== CUSTOM STYLES ================== */
+
+.button {
+  background: var(--color-offwhite);
+  border: 5px solid var(--color-offwhite);
+  color: var(--color-offblack);
+  cursor: pointer;
+  display: block;
+  font-weight: 700;
+  margin: auto;
+  width: 200px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.button:hover,
+.button:focus {
+  border-color: var(--color-lightgreen);
+}
+
+
+/*  ================== MEDIA QUERIES ================== */
