@@ -14,4 +14,11 @@ Those, however, aren't the only careers that benefit from learning some basics o
 - **You're a more valuabe employee** because you have a broad set of skills and have proven you can learn new ones!
 
 Finally, if you've never coded before, you don't know whether you enjoy it. It's great to get an introduction and learn more about what's possible!
-  
+
+🎉 Let's get started:
+
+- [HTML vs CSS](html-vs-css.md)
+- [Know your tools](tools.md)
+
+
+- [Troubleshooting your code](troubleshooting.md)
