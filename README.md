@@ -17,8 +17,4 @@ Finally, if you've never coded before, you don't know whether you enjoy it. It's
 
 🎉 Let's get started:
 
-- [HTML vs CSS](html-vs-css.md)
-- [Know your tools](tools.md)
-
-
-- [Troubleshooting your code](troubleshooting.md)
+<TOC>
