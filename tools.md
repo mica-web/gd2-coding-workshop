@@ -8,9 +8,12 @@ For the purposes of this workshop, we'll be using [CodePen](codepen.io/). This i
 
 ## Intro to CodePen
 
-- Layout of editor: https://codepen.io/pen/tour/welcome/start 
-- Settings (gear icon)
- - HTML -> Stuff for <head> -> "Insert the most common viewport meta tag"
+- Layout of editor: https://codepen.io/pen/tour/welcome/start
+  - Syntax highlighting
+  - Formatting
+- Configure your Pens
+  - Settings (gear icon)
+  - HTML -> Stuff for <head> -> "Insert the most common viewport meta tag"
 - Forks
 Making a "fork" of a Pen is like making a copy. You can make forks (copies) of other people's work, as well as  your own.
 ![Screenshot of CodePen Editor pointing out the Fork button](img/codepen-fork.png)
