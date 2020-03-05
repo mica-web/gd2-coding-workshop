@@ -25,3 +25,7 @@ Both browsers also have built-in tools to help explore HTML and CSS; see these l
 
 - Google Chrome: https://developers.google.com/web/tools/chrome-devtools/css
 - Mozilla Firefox: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/UI_Tour
+
+---
+
+[↤ back](README.md)

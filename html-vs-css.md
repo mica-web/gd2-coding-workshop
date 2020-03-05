@@ -12,3 +12,7 @@ Both HTML and CSS use some familiar English words -- `main`, `aside`, `color`, `
 HTML is a declarative language -- it doesn't allow for dynamic content (for example, if the user is logged in, show them account info, if they're not logged in, show them a log in form); that sort of logic requires use of a programming language along with HTML (which is above and beyond what we'll cover in this workshop).
 
 CSS has a bit more flexibility because it handles interactions (for example, when a user hovers on a link, it changes color) and layout changes based on device size, but it's still not as robust as a programming language.
+
+---
+
+[↤ back](README.md)

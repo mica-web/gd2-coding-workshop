@@ -33,3 +33,7 @@ If your code is broken or not working as you expected, try the following:
 - **Isolate the problem.** - Use HTML comments `<!-- -->` and CSS comments `/* */` to isolate the problem. Try adding comments to different blocks of code so that the browser will skip the commented area. If the problem goes away, then the problem must be somewhere within the commented section. 🔲
 - **Have another person look at your code.** - More often than not, it is a small mistake that is causing the problem. Ask your classmate to look over your code. They will provide a fresh view. 👀
 - **Start a new file.** - Open up an empty page and retype -- _NOT_ copy and paste -- the problematic code block. See if you can recreate the problem. If you can, focus on that code block only. 🆕
+
+---
+
+[↤ back](README.md)
