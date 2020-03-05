@@ -1,5 +1,7 @@
 # GD2 Coding Workshop
-Notes and resources from the GD2 coding workshop (Spring 2020)
+Notes and resources from the GD2 coding workshop (Spring 2020).
+
+⚠️ Please note that these notes have been compiled kinda quickly, so they are not meant to be totally representative of the materials covered in the class and certainly may require clarification. Feel free to ask questions or ask me to reword something to make it more understandable!
 
 
 ---
