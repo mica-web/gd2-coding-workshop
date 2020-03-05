@@ -36,4 +36,4 @@ If your code is broken or not working as you expected, try the following:
 
 ---
 
-[↤ back](README.md)
+[↤ back](README.md#table-of-contents)

@@ -15,4 +15,4 @@ CSS has a bit more flexibility because it handles interactions (for example, whe
 
 ---
 
-[↤ back](README.md)
+[↤ back](README.md#table-of-contents)

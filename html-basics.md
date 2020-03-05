@@ -122,4 +122,4 @@ The `alt` attribute provides a text description of the image. This text is used 
 
 ---
 
-[↤ back](README.md)
+[↤ back](README.md#table-of-contents)

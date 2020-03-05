@@ -28,4 +28,4 @@ Both browsers also have built-in tools to help explore HTML and CSS; see these l
 
 ---
 
-[↤ back](README.md)
+[↤ back](README.md#table-of-contents)
