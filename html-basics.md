@@ -4,7 +4,7 @@ HTML is made up of elements which are incorporated into tags and wrap around you
 
 ![Notation of an HTML element](img/html_element.png)
 
-In this example, the element is `p` -- which stands for paragraph. The element is surrounded in brackets `<>` and the content is wrapped in an opening tag and a closing tag (which is just like the closing tag but with a forward slash).
+In this example, the element is `p` -- which stands for paragraph. The element is surrounded in angled brackets `<>` and the content is wrapped in an opening tag and a closing tag (which is just like the closing tag but with a forward slash).
 
 Let's code some basic HTML elements together. [Start with this CodePen](https://codepen.io/angeliquejw/pen/rNVGyGJ?editors=1000). 👉 Remember to "fork" the Pen and make your own copy.
 
