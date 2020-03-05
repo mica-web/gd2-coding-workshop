@@ -29,6 +29,11 @@ Both browsers also have built-in tools to help explore HTML and CSS; see these l
 - Google Chrome: https://developers.google.com/web/tools/chrome-devtools/css
 - Mozilla Firefox: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/UI_Tour
 
+
+---
+
+Because this is a small introduction into coding and web development, I'm not able to talk to you in depth about all the tools I use as a professional. Before we wrap up, I'll share some resources about continuing to learn about coding, if you decide its a skillset you'd like to continue to invest in.
+
 ---
 
 [↤ back](README.md#table-of-contents)
