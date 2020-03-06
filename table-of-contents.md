@@ -25,6 +25,8 @@
         * [Customizing](css-basics.md#customizing)
   * [Colors](css-basics.md#colors)
 
+* [Resources](resources.md)
+
 * [Troubleshooting your code](troubleshooting.md)
    * [Best practices to <em>avoid</em> problems with your code](troubleshooting.md#best-practices-to-avoid-problems-with-your-code)
    * [Troubleshooting](troubleshooting.md#troubleshooting)
