@@ -135,7 +135,6 @@ Sometimes you want to write something in your HTML document that you don't want 
 <!--  <p>You can also use comments around your HTML code.</p>  -->
 ```
 
-
 ---
 
 [↤ back](README.md#table-of-contents)
