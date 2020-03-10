@@ -8,7 +8,7 @@ Each style declaration has two parts:  the **property**, which identifies which 
 
 All the declarations for a selector are wrapped in curly brackets `{}`.
 
-Using the CodePen you worked on in [HTML Basics](html-basics.md), let's apply some styles.
+Using the CodePen you worked on in [HTML Basics](html-basics.md), let's apply some styles.  (A final example CodePen of all these styles is [available here](https://codepen.io/angeliquejw/pen/oNXppzo?editors=0100).)
 
 ## Text styles
 
