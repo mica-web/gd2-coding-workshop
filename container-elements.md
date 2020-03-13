@@ -25,7 +25,7 @@ As you'll see in the CodePen, the other elements you've already learned can be n
 ## Generic
 While it's best to use a semantic element, something that adds meaning to your document, sometimes there's no right choice from the existing elements. In those cases, there are two generic container elements that give no extra meaning to your HTML document: `div` and `span`.
 
-To understand when to use `div` or `span`, you need to understand [box vs inline elements](inline-vs-block.md).
+To understand when to use `div` or `span`, you need to understand [block vs inline elements](block-vs-inline.md).
 
 Container elements are an awesome feature, but remember to add them on an as-needed basis and to always use a semantic element when psosible.
 
