@@ -9,6 +9,10 @@ Let's use [this CodePen](https://codepen.io/angeliquejw/pen/rNVdMja?editors=1000
 - [Advanced Positioning](https://www.internetingishard.com/html-and-css/advanced-positioning/) via Interneting is Hard
 - Wes Bos' [What the Flexbox](https://flexbox.io/) video tutorials
 
+### CSS Grid (very advance)
+- [Grid Garden](https://cssgridgarden.com/)
+- [Jen Simmons Layout Land](https://www.youtube.com/watch?v=tFKrK4eAiUQ) on YouTube
+
 ---
 
 [↤ back](README.md#table-of-contents)
