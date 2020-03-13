@@ -31,7 +31,9 @@ When you select your Google Fonts, you're also given the option to customize the
 
 If you want to use the proper font weight or style, you should select those options here. You can also select additonal languages or extended alphabets on this screen.
 
-Finally, the `text-align` property sets the horizontal alignment of your text; common values you might want to use include: `left` (the default for most text elements), `right`, `center` or `justify`.
+Additionally:
+- the `text-align` property sets the horizontal alignment of your text; common values you might want to use include: `left` (the default for most text elements), `right`, `center` or `justify`.
+- `text-transform` changes the capitalization of the text in your markup; you can use a value of `lowercase` or `uppercase`, for example, to create all lowercase of all CAPSLOCK text. It is a best practice to write your markup in Title or Sentence case and to control other stylistic capitalizaiton choices via CSS.
 
 ## Colors
 
