@@ -1,5 +1,8 @@
-* [Introduction](README.md)
-   * [Why Learn to Code](README.md#why-learn-to-code)
+# Agenda
+
+## Day One
+
+* [Why Learn to Code](README.md#why-learn-to-code)
 
 * [Know your tools](tools.md)
   * [Intro to CodePen](tools.md#intro-to-codepen)
@@ -30,3 +33,27 @@
 * [Troubleshooting your code](troubleshooting.md)
    * [Best practices to <em>avoid</em> problems with your code](troubleshooting.md#best-practices-to-avoid-problems-with-your-code)
    * [Troubleshooting](troubleshooting.md#troubleshooting)
+
+
+## Day Two
+
+* [Interaction in CSS](css-interaction.md)
+   * [Transitions](css-interaction.md#transitions)
+
+* [HTML container elements](container-elements.md)
+   * [Semantic](container-elements.md#semantic)
+   * [Generic](container-elements.md#generic)
+
+* [Block vs. inline elements](block-vs-inline.md)
+   * [Changing the defaults](block-vs-inline.md#changing-the-defaults)
+
+* [CSS spacing](css-spacing.md)
+   * [Margin and padding](css-spacing.md#margin-and-padding)
+   * [Height and width](css-spacing.md#height-and-width)
+   * [Block vs. inline, part 2](css-spacing.md#block-vs-inline-part-2)
+    * [Box-sizing](css-spacing.md#box-sizing)
+
+* [CSS selectors](css-selectors.md)
+
+* [CSS layout](css-layout.md)
+   * [Resources to learn more](css-layout.md#resources-to-learn-more)
